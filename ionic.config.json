@@ -1,0 +1,7 @@
+{
+  "name": "portApp--template=blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
