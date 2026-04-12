@@ -1,2 +1,31 @@
-/* For information on how to create your own theme, please refer to:
-http://ionicframework.com/docs/theming/ */
+:root {
+  --ion-color-primary: #1b263b;
+  --ion-color-primary-rgb: 27, 38, 59;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #172031;
+  --ion-color-primary-tint: #32405a;
+
+  --ion-color-secondary: #415a77;
+  --ion-color-secondary-rgb: 65, 90, 119;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+
+  --ion-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body,
+#app,
+ion-app {
+  background: #f4f7fb;
+}
+
+ion-card-title {
+  font-weight: 700;
+}
+
+ion-card-subtitle {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
