@@ -40,6 +40,9 @@ const route = useRoute();
   border-top: 1px solid rgba(255, 255, 255, 0.08);
   box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.18);
   padding: 10px 8px 14px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .nav-item {
