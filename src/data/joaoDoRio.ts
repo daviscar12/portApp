@@ -1,5 +1,5 @@
 export const autor = {
-  nomeCompleto: 'Paulo Barreto',
+  nomeCompleto: 'João Paulo Emílio Cristóvão dos Santos Coelho Barreto.',
   nomeLiterario: 'João do Rio',
   periodo: '1881–1921',
   seculo: 'Final do século XIX e início do século XX',
@@ -12,7 +12,7 @@ export const autor = {
   resumo:
     'João do Rio foi um dos maiores observadores da vida urbana carioca. Sua escrita uniu literatura e jornalismo para mostrar o cotidiano, as ruas, as diferenças sociais e os personagens invisibilizados da cidade.',
   biografia: [
-    'Nasceu no Rio de Janeiro, em 1881, com o nome Paulo Barreto.',
+    'Nasceu no Rio de Janeiro, em 1881, com o nome João Paulo Emílio Cristóvão dos Santos Coelho Barreto.',
     'Adotou o pseudônimo João do Rio e ficou conhecido por suas crônicas urbanas.',
     'Escreveu sobre pobreza, religiosidade, costumes e modernidade nas ruas do Rio.',
     'Teve forte atuação jornalística e circulou em jornais importantes da época.',
@@ -76,7 +76,7 @@ export const equipe = [
     nome: 'Mario',
     funcao: 'Pesquisa histórica',
     descricao: 'Responsável por levantar informações sobre o contexto social e histórico da época.',
-    foto: 'https://via.placeholder.com/300x300.png?text=Mario'
+    foto: 'https://us-prod.asyncgw.teams.microsoft.com/v1/7995f199-6c87-450b-8c98-08aa1bc354ff/objects/0-eus-d18-84b297d9c30c16c87f2ae2297b34ff15/views/imgpsh_fullsize'
   },
   {
     nome: 'João',
